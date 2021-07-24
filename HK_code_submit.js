@@ -161,4 +161,3 @@ browserOpenPromise
 
         //dynamic site-> id change
         //create new promise
-        
